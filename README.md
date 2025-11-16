@@ -1,2 +1,2 @@
-# procgenworld
-practicing with procedurally generated interactive world from prompt or image
+# sphere
+practicing with procedurally generated sphere world from prompt or image
